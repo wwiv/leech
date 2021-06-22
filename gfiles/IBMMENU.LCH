@@ -1,0 +1,20 @@
+
+AVAILABLE COMMANDS
+------------------------------------------------------------------------------
+NAME     EXT     BYTES       DESCRIPTION
+------------------------------------------------------------------------------
+
+HELP     COM     8093        <--------------------INSTRUCTIONS
+LLL      EXE     9032        <--------------------CALL LLL
+CALL     COM     12231       <--------------------CALL BBS'S TO CRASH
+HACK     COM     72713       <--------------------CRASH OTHER USERS' HARD DISK
+FORMAT   COM     8192        <--------------------FORMAT HARD DRIVE (REROLL)
+STATUS   EXE     4096        <--------------------PRINTS LEECH STATUS
+CREDITS  COM     10232       <--------------------WHO WROTE THIS GAME, ETC..
++        COM     21323       <--------------------PUTS MONEY IN LLL ACCOUNT
+-        COM     21323       <--------------------PUTS MONEY IN POSESSION
+UE       COM     32731       <--------------------UNERASE FILES/MEGS
+QUIT     EXE     1024        <--------------------QUIT TO BBS
+
+NOTE:  Only type the NAME of the file to run (not the extension).
+

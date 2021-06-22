@@ -1,0 +1,20 @@
+
+AVAILABLE COMMANDS
+---------------------------------------
+SIZE KIND NAME    DESCRIPTION
+---------------------------------------
+
+043   T   HELP    <-INSTRUCTIONS
+098   B   LLL     <-CALL LLL
+232   B   CALL    <-CALL BBS'S TO CRASH
+239   B   HACK    <-CRASH OTHER USERS' HARD DISK
+102   B   FORMAT  <-FORMAT HARD DRIVE (REROLL)
+016   T   STATUS  <-PRINTS LEECH STATUS
+200   B   CREDITS <-WHO WROTE THIS GAME, ETC..
+193   B   +       <-PUTS MONEY IN LLL ACCOUNT
+193   B   -       <-PUTS MONEY IN POSESSION
+310   B   UE      <-UNERASE FILES/MEGS
+009   B   QUIT    <-QUIT TO BBS
+
+NOTE:  Only type the NAME of the file to run.
+

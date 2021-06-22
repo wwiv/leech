@@ -1,0 +1,16 @@
+Number:  1    Strength:  1    Price:  0         Backup:  None
+Number:  2    Strength:  2    Price:  100       Backup:  Punch Cards
+Number:  3    Strength:  3    Price:  200       Backup:  Paper Strips
+Number:  4    Strength:  4    Price:  400       Backup:  Floppy disk
+Number:  5    Strength:  5    Price:  800       Backup:  High Density floppy
+Number:  6    Strength:  7    Price:  2000      Backup:  Tape Backup
+Number:  7    Strength:  8    Price:  4000      Backup:  Long Tape Backup
+Number:  8    Strength:  9    Price:  8000      Backup:  Elephant
+Number:  9    Strength:  11   Price:  20000     Backup:  Duplicate computer
+Number:  10   Strength:  12   Price:  40000     Backup:  Dup. computer w/lock
+Number:  11   Strength:  13   Price:  80000     Backup:  Federal Protection
+Number:  12   Strength:  15   Price:  2000000   Backup:  Worldwide Protection
+Number:  13   Strength:  16   Price:  4000000   Backup:  Teenager to busy line
+Number:  14   Strength:  17   Price:  8000000   Backup:  Read-only attribute
+Number:  15   Strength:  20   Price:  20000000  Backup:  All backups
+
