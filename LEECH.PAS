@@ -4,7 +4,7 @@ program Leech;
 { Program written by ALF Software
 
 {$V-} {$C-}
-uses common;
+uses common, wwiv5chn;
 { $I COMMON.PAS }
 
 VAR
@@ -442,6 +442,7 @@ end;
 
 
 begin
+  chain_init;
   gfilespath := 'gfiles\';
   iport;
   cls;
